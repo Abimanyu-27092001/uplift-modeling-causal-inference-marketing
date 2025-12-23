@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Virtual env
+venv/
+.env/
+
+# OS
+.DS_Store
+
+# Large artifacts (optional but recommended)
+credit_project_outputs/*.joblib
+credit_project_outputs/*.zip
+
+# VS Code
+.vscode/

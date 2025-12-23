@@ -1,21 +1,33 @@
 {
-  "34761": {
-    "index": 34761,
-    "p1": 9.884147768446959e-09,
-    "p0": 9.884147768446959e-09,
-    "uplift": 0.0,
+  "12097": {
+    "index": 12097,
+    "p1": 1.600753799707809e-08,
+    "p0": 1.5647471419038104e-08,
+    "uplift": 3.6006657803998524e-10,
     "top_features": [
       {
-        "feature": "recency",
-        "effect_on_uplift": 0.0
-      },
-      {
         "feature": "history",
-        "effect_on_uplift": 0.0
+        "effect_on_uplift": -2.703356752561257e-10
       },
       {
         "feature": "mens",
-        "effect_on_uplift": 0.0
+        "effect_on_uplift": 6.640594772681e-12
+      },
+      {
+        "feature": "recency",
+        "effect_on_uplift": -3.3711009567378782e-12
+      },
+      {
+        "feature": "history_segment_1) $0 - $100",
+        "effect_on_uplift": 2.4818463694955503e-14
+      },
+      {
+        "feature": "channel_Phone",
+        "effect_on_uplift": 7.430757631484451e-16
+      },
+      {
+        "feature": "zip_code_Surburban",
+        "effect_on_uplift": -6.671833613886359e-16
       },
       {
         "feature": "womens",
@@ -23,79 +35,79 @@
       },
       {
         "feature": "newbie",
-        "effect_on_uplift": 0.0
-      },
-      {
-        "feature": "visit",
-        "effect_on_uplift": 0.0
-      },
-      {
-        "feature": "spend",
-        "effect_on_uplift": 0.0
-      },
-      {
-        "feature": "history_segment_1) $0 - $100",
         "effect_on_uplift": 0.0
       }
     ]
   },
-  "39057": {
-    "index": 39057,
-    "p1": 8.220402541323099e-08,
-    "p0": 8.220402541323099e-08,
-    "uplift": 0.0,
+  "44450": {
+    "index": 44450,
+    "p1": 1.9573005414068044e-08,
+    "p0": 1.9573233588812036e-08,
+    "uplift": -2.2817474399209365e-13,
     "top_features": [
       {
-        "feature": "recency",
-        "effect_on_uplift": 0.0
+        "feature": "history",
+        "effect_on_uplift": -5.048585111326332e-10
       },
       {
-        "feature": "history",
-        "effect_on_uplift": 0.0
+        "feature": "recency",
+        "effect_on_uplift": -6.32930173547979e-11
+      },
+      {
+        "feature": "zip_code_Rural",
+        "effect_on_uplift": 2.928980625600952e-13
       },
       {
         "feature": "mens",
-        "effect_on_uplift": 0.0
+        "effect_on_uplift": 1.9871691820146558e-13
       },
       {
-        "feature": "womens",
-        "effect_on_uplift": 0.0
+        "feature": "history_segment_5) $500 - $750",
+        "effect_on_uplift": -2.2786632692468512e-14
       },
       {
         "feature": "newbie",
-        "effect_on_uplift": 0.0
+        "effect_on_uplift": 1.5845340351905406e-14
       },
       {
-        "feature": "visit",
-        "effect_on_uplift": 0.0
+        "feature": "channel_Multichannel",
+        "effect_on_uplift": 2.7213237624858726e-16
       },
       {
-        "feature": "spend",
-        "effect_on_uplift": 0.0
-      },
-      {
-        "feature": "history_segment_1) $0 - $100",
+        "feature": "womens",
         "effect_on_uplift": 0.0
       }
     ]
   },
-  "58355": {
-    "index": 58355,
-    "p1": 7.509202356729722e-09,
-    "p0": 7.509202356729722e-09,
-    "uplift": 0.0,
+  "44421": {
+    "index": 44421,
+    "p1": 1.7029205739359226e-08,
+    "p0": 1.659624895372584e-08,
+    "uplift": 4.329567856333856e-10,
     "top_features": [
       {
         "feature": "recency",
-        "effect_on_uplift": 0.0
+        "effect_on_uplift": -2.0925350125935452e-10
       },
       {
         "feature": "history",
-        "effect_on_uplift": 0.0
+        "effect_on_uplift": 1.710293354772336e-11
       },
       {
         "feature": "mens",
-        "effect_on_uplift": 0.0
+        "effect_on_uplift": 7.679312788660088e-12
+      },
+      {
+        "feature": "channel_Phone",
+        "effect_on_uplift": -4.640464750590156e-15
+      },
+      {
+        "feature": "history_segment_2) $100 - $200",
+        "effect_on_uplift": 3.486353736198255e-15
+      },
+      {
+        "feature": "zip_code_Surburban",
+        "effect_on_uplift": -1.794441022602632e-15
       },
       {
         "feature": "womens",
@@ -103,39 +115,35 @@
       },
       {
         "feature": "newbie",
-        "effect_on_uplift": 0.0
-      },
-      {
-        "feature": "visit",
-        "effect_on_uplift": 0.0
-      },
-      {
-        "feature": "spend",
-        "effect_on_uplift": 0.0
-      },
-      {
-        "feature": "history_segment_1) $0 - $100",
         "effect_on_uplift": 0.0
       }
     ]
   },
-  "49351": {
-    "index": 49351,
-    "p1": 1.0174449053179843e-08,
-    "p0": 1.0174449053179843e-08,
-    "uplift": 0.0,
+  "56676": {
+    "index": 56676,
+    "p1": 1.7303171594190262e-08,
+    "p0": 1.68188141360262e-08,
+    "uplift": 4.843574581640627e-10,
     "top_features": [
       {
         "feature": "recency",
-        "effect_on_uplift": 0.0
+        "effect_on_uplift": -5.205626143257174e-10
+      },
+      {
+        "feature": "channel_Web",
+        "effect_on_uplift": -2.7058514698633835e-10
       },
       {
         "feature": "history",
-        "effect_on_uplift": 0.0
+        "effect_on_uplift": 2.536837606129765e-10
+      },
+      {
+        "feature": "history_segment_4) $350 - $500",
+        "effect_on_uplift": 1.526997880968793e-14
       },
       {
         "feature": "mens",
-        "effect_on_uplift": 0.0
+        "effect_on_uplift": 4.294490990071642e-16
       },
       {
         "feature": "womens",
@@ -147,54 +155,46 @@
       },
       {
         "feature": "visit",
-        "effect_on_uplift": 0.0
-      },
-      {
-        "feature": "spend",
-        "effect_on_uplift": 0.0
-      },
-      {
-        "feature": "history_segment_1) $0 - $100",
         "effect_on_uplift": 0.0
       }
     ]
   },
-  "9099": {
-    "index": 9099,
-    "p1": 3.411945224301875e-07,
-    "p0": 3.411945224301875e-07,
-    "uplift": 0.0,
+  "15177": {
+    "index": 15177,
+    "p1": 1.5623319453466943e-08,
+    "p0": 1.5606026872524238e-08,
+    "uplift": 1.7292580942705034e-11,
     "top_features": [
       {
-        "feature": "recency",
-        "effect_on_uplift": 0.0
+        "feature": "womens",
+        "effect_on_uplift": -6.30388236058134e-10
       },
       {
         "feature": "history",
-        "effect_on_uplift": 0.0
+        "effect_on_uplift": 3.2601844351781154e-10
+      },
+      {
+        "feature": "history_segment_2) $100 - $200",
+        "effect_on_uplift": 9.893300205807987e-15
+      },
+      {
+        "feature": "zip_code_Urban",
+        "effect_on_uplift": -2.4250671004235397e-15
+      },
+      {
+        "feature": "channel_Phone",
+        "effect_on_uplift": -1.8933180240369335e-15
+      },
+      {
+        "feature": "recency",
+        "effect_on_uplift": 5.715156288251379e-20
       },
       {
         "feature": "mens",
         "effect_on_uplift": 0.0
       },
       {
-        "feature": "womens",
-        "effect_on_uplift": 0.0
-      },
-      {
         "feature": "newbie",
-        "effect_on_uplift": 0.0
-      },
-      {
-        "feature": "visit",
-        "effect_on_uplift": 0.0
-      },
-      {
-        "feature": "spend",
-        "effect_on_uplift": 0.0
-      },
-      {
-        "feature": "history_segment_1) $0 - $100",
         "effect_on_uplift": 0.0
       }
     ]
